@@ -1,2 +1,2 @@
-# anca-app
+# app
 app do instrutor
