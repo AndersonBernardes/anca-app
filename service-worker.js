@@ -5,7 +5,7 @@
 
 var CACHE_NAME = "anca-app-v1";
 var URLS_PARA_CACHE = [
-  "./app1_registro.html",
+  "./index.html",
   "./manifest.json"
 ];
 
