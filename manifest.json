@@ -1,119 +1,62 @@
 {
-  "brand": "Anca Soluções",
-  "accentColor": "#C0392B",
-  "slides": [
+  "name": "Anca App - Registro de Aula",
+  "short_name": "Anca App",
+  "description": "Sistema de acompanhamento pratico veicular - Anca Consultoria e Solucoes",
+  "start_url": "./app1_registro.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e17",
+  "theme_color": "#1a2744",
+  "lang": "pt-BR",
+  "icons": [
     {
-      "type": "text",
-      "title": "Bem-vindo(a)!",
-      "body": "Confira as novidades da semana.",
-      "color": "#F2A65A",
-      "fontSize": "grande",
-      "bodyColor": "#9AA0AB",
-      "bodySize": "medio",
-      "background": "#15171C",
-      "titleAnimation": "glow",
-      "duration": 8
+      "src": "pwa_icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "image",
-      "src": "imagens/imagem-01.jpg",
-      "caption": "Promoção do mês",
-      "captionColor": "#F2A65A",
-      "captionSize": "grande",
-      "animation": "zoom",
-      "duration": 10
+      "src": "pwa_icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "clock",
-      "duration": 8
+      "src": "pwa_icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "birthday",
-      "title": "Feliz Aniversário!",
-      "message": "Que venham muitas conquistas!",
-      "annualDate": "",
-      "annualWindowDays": 1,
-      "titleAnimation": "slideup",
-      "duration": 10
+      "src": "pwa_icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "news",
-      "label": "AVISOS INTERNOS",
-      "items": [
-        "Reunião geral sexta-feira às 9h",
-        "Nova política de reembolso já disponível",
-        "Parabéns aos aniversariantes do mês!"
-      ]
+      "src": "pwa_icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "social",
-      "title": "Redes sociais",
-      "items": [
-        "instagram:@ancasolucoes",
-        "whatsapp:(11) 99999-9999"
-      ]
+      "src": "pwa_icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "type": "menu",
-      "title": "Cardápio do Refeitório",
-      "imageAnimation": "pan-left",
-      "menu": {
-        "1": {
-          "items": [
-            "Bife acebolado",
-            "Arroz, feijão, purê de batata e salada"
-          ],
-          "image": ""
-        },
-        "2": {
-          "items": [
-            "Almôndegas ao molho",
-            "Arroz, feijão, macarrão e salada"
-          ],
-          "image": ""
-        },
-        "3": {
-          "items": [
-            "Frango grelhado",
-            "Arroz, feijão, legumes salteados"
-          ],
-          "image": ""
-        },
-        "4": {
-          "items": [
-            "Feijoada leve",
-            "Arroz, farofa, couve e laranja"
-          ],
-          "image": ""
-        },
-        "5": {
-          "items": [
-            "Peixe assado",
-            "Arroz, feijão, salada verde"
-          ],
-          "image": ""
-        }
-      }
+      "src": "pwa_icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "type": "weather",
-      "city": "São Paulo, São Paulo",
-      "lat": -23.5475,
-      "lon": -46.6361
-    },
-    {
-      "type": "motivation",
-      "items": [
-        "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
-        "Grandes equipes constroem grandes resultados.|Anca Soluções",
-        "Foco no progresso, não na perfeição."
-      ],
-      "titleAnimation": "kinetic"
-    },
-    {
-      "type": "rss",
-      "feedUrl": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
-      "maxItems": 5
+      "src": "pwa_icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
