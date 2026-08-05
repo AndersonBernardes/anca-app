@@ -2,7 +2,7 @@
   "name": "Anca App - Registro de Aula",
   "short_name": "Anca App",
   "description": "Sistema de acompanhamento pratico veicular - Anca Consultoria e Solucoes",
-  "start_url": "https://andersonbernardes.github.io/anca-app/",
+  "start_url": "https://andersonbernardes.github.io/anca-app",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
